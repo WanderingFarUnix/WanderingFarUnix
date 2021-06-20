@@ -1,0 +1,4 @@
+- Hi I am wanderingunix
+- I am a linux distrohopper
+- I am trying to learn C and lua
+- Yeah there is not much else
